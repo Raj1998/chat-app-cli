@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-// this is the server file for chat application!!!   
-=======
-// this is the server file for chat application!!!
->>>>>>> 9ccd3b76f2337af0154af8e9b4717b4c9dd2398f
-// this was added from the github
-
 import java.net.*;
 import java.io.*;
 import java.util.*;
